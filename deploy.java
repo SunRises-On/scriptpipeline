@@ -1,4 +1,4 @@
-class deploy(
+class deploy{
   
     public static void main (String[] args){
       
