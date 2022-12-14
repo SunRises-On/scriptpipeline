@@ -1,6 +1,6 @@
 
 
-class quality(
+class quality{
   
     public static void main (String[] args){
       
