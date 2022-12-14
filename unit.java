@@ -1,4 +1,4 @@
-class unit(
+class unit{
   
     public static void main (String[] args){
       
