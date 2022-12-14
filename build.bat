@@ -1,2 +1,0 @@
-
-echo "Built Successfully!"
